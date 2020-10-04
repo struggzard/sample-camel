@@ -1,2 +1,2 @@
 # sample-camel
-A basic sample of the Apace Camel routes
+A basic sample of the Apache Camel routes
